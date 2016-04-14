@@ -1,0 +1,3 @@
+-pushd Examples/CodeLoadDemoApp
+-react-native bundle
+-popd
