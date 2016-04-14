@@ -1,6 +1,6 @@
 {
-  "name": "hot-load",
-  "version": "1.8.1-beta",
+  "name": "maxleap-hotload-core",
+  "version": "0.0.1",
   "description": "Management SDK for the HotLoad service",
   "main": "script/index.js",
   "scripts": {
@@ -8,11 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MaxLeap/hot-load.git"
+    "url": "https://github.com/MaxLeap/HotLoad-SDK.git"
   },
   "author": "MaxLeap",
   "license": "MIT",
-  "homepage": "https://maxleap.github.io/hot-load",
+  "homepage": "https://github.com/MaxLeap/HotLoad-SDK",
   "dependencies": {
     "base-64": "^0.1.0",
     "node-uuid": "^1.4.3",
