@@ -1,0 +1,4 @@
+rootProject.name = 'HotLoadDemoApp'
+
+include ':app', ':react-native-hot-load'
+project(':react-native-hot-load').projectDir = new File(rootProject.projectDir, '../../../android/app')
